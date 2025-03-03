@@ -8,5 +8,3 @@ def hello(name):
     print(f"Hello {name}")
 
 print(fact(5))
-print(hello("Ali"))
-print("Hello")
